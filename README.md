@@ -1,2 +1,2 @@
-# TransformedDatasets
- repo for transformed datasets ready to be used in an analysis
+# Clean, Transformed Machine Learning Datasets
+ repo for cleaned datasets ready to be used in an analysis
